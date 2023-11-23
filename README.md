@@ -10,7 +10,7 @@ Certifique-se de ter o ambiente Dart instalado em sua máquina.
 1. Clone este repositório:
 
 ```bash
- git clone https://github.com/leandrucarvalho/seu-repositorio.
+ git clone https://github.com/leandrucarvalho/dart_desafio_escribo.
 ```
 
 2. Navegue até o diretório do projeto:
